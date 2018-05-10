@@ -1,2 +1,4 @@
-# Deep-Learning-MNIST
-In this repository i put all the codes that i practiced for MNIST data.
+# Deep Convolutional Neural Network for MNIST dataset
+<br>
+
+A deep and deeper cnn architechture for mnist.
